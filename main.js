@@ -170,7 +170,7 @@ image2.addEventListener('mouseover', () => {
 	image5.querySelector('img').src = './img/bottom.jpg';
 	image6.querySelector('img').src = './img/leftdown.jpg';
 	image9.querySelector('img').src = './img/left.jpg';
-	image7.querySelector('img').src = './img/lefttop.jpg';
+	image7.querySelector('img').src = './img/right.jpg';
  });
  image8.addEventListener('mouseout', () => {
 	image2.querySelector('img').src = originalImageSrc;
